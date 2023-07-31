@@ -150,6 +150,13 @@ function getBook(id) {
 const book = getBook(3);
 
 const title = book.title;
+const author = book.author;
+
+author
+
+
 title
+
+
 
 
