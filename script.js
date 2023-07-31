@@ -149,14 +149,14 @@ function getBook(id) {
 
 const book = getBook(3);
 
-const title = book.title;
-const author = book.author;
+// const title = book.title;
+// const author = book.author;
 
-author
-
-
-title
+// author
+// title
 
 
+const {title, author} =book;
+console.log(title, author)
 
 
