@@ -161,3 +161,9 @@ const { title, author, pages } = book;
 
 
 
+const primaryGenre = genres[0];
+const secondaryGenre = genres[1];
+
+console.log(primaryGenre, secondaryGenre);
+
+
